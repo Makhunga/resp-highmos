@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=CrryRvjYsgc - Professional Website from Start to Finish 2021 [Full Tutorial] | HTML, CSS Tutorial
+
+https://www.figma.com/file/UqSpfssqAFQd0m1cR4f1kI/Highmos---Responsive?node-id=0%3A1
+
+https://www.hongkiat.com/blog/moving-css-grid-items/
+
+Deploy to Github Pages
+
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
